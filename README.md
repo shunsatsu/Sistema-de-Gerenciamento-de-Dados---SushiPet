@@ -1,6 +1,6 @@
 # Projeto de Modelagem de Banco de Dados: Clinica Veterinaria "SushiPet"
 
-Este repositório contém o projeto SQL completo desenvolvido para a disciplina de Modelagem de Banco de Dados (ADS - Cruzeiro do Sul Virtual). O objetivo foi modelar, implementar e manipular um banco de dados relacional funcional (em 3ª Forma Normal - 3FN) para gerenciar o sistema de pedidos de uma pizzaria fictícia.
+Este repositório contém o projeto SQL completo desenvolvido para a disciplina de Modelagem de Banco de Dados (CDC - Cruzeiro do Sul Virtual). O objetivo foi modelar, implementar e manipular um banco de dados relacional funcional (em 3ª Forma Normal - 3FN) para gerenciar o sistema de pedidos de uma pizzaria fictícia.
 
 O projeto foi dividido em quatro etapas principais:
 
