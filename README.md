@@ -34,10 +34,10 @@ O modelo lógico final consiste em 9 tabelas principais, duas delas são associa
 
 * *SERVIÇO*: Define os serviços e seus reespectivos valores cobrados que a clinica realiza (nome,valor)
 
-### 3. Conteúdo do Repositório
+## 3. Conteúdo do Repositório
 Este repositório contém os scripts SQL e a documentação completa do projeto:
 
-* /documentacao: Pasta contendo os PDFs das Atividades 1, 2 e 3 (o processo de concepção).
+* /documentacao: Pasta contendo os PDFs das Atividades 1, 2 e 3 (o processo de concepção) e as Provas de Execução (MySQL Workbench) contendo os prints que comprovam a criação e execução bem-sucedida de todos os scripts no MySQL Workbench..
 
 * README.md: Este arquivo, com a documentação do projeto.
 
@@ -49,7 +49,7 @@ Este repositório contém os scripts SQL e a documentação completa do projeto:
 
 * manipulacao.sql: (DML) Contém os comandos UPDATE e DELETE para demonstrar a manipulação e a integridade dos dados (como ON DELETE CASCADE).
 
-4. Como Executar
+## 4. Como Executar
 O projeto foi desenvolvido e testado utilizando MySQL Workbench.
 
 É crucial que os scripts sejam executados na ordem correta para que as Chaves Estrangeiras (FKs) funcionem.
@@ -60,7 +60,7 @@ O projeto foi desenvolvido e testado utilizando MySQL Workbench.
 
 * 3-Execute o consultas.sql para testar as consultas de leitura e ver os resultados.
 
-* 4-Execute o manipulacao.sql por último, para testar as regras de atualização e exclusão.
+* 4-Execute o manipulacao.sql por último, para testar as regras de atualização e exclusão. (comandos de UPDATE antes)
 
-5. Prova de Execução (MySQL Workbench)
-Esta seção contém os prints que comprovam a criação e execução bem-sucedida de todos os scripts no MySQL Workbench.
+## 5. Prova de Execução (MySQL Workbench)
+Dentro da pasta "/documentos" dentro deste repositório contém prints que comprovam a criação e execução bem-sucedida de todos os scripts no MySQL Workbench.
